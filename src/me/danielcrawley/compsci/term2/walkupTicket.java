@@ -1,3 +1,5 @@
+package me.danielcrawley.compsci.term2;
+
 public class walkupTicket extends ticket{
   public walkupTicket(int number){
    super(number);  

@@ -15,7 +15,7 @@ public class WriteX {
 
             for(int j=  0; j < list[i].length; j++){
 
-                list[i][j] = new Random().nextInt(100);
+                list[i][j] = new Random().nextInt(9) + 1;
 
             }
 
